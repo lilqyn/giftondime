@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/giftondime/static/css/main.c6ceb6bc.css",
+    "main.js": "/giftondime/static/js/main.86dda387.js",
+    "static/js/453.0753299f.chunk.js": "/giftondime/static/js/453.0753299f.chunk.js",
+    "static/media/Gift.png": "/giftondime/static/media/Gift.2b76a6f35c066481ad8e.png",
+    "index.html": "/giftondime/index.html",
+    "main.c6ceb6bc.css.map": "/giftondime/static/css/main.c6ceb6bc.css.map",
+    "main.86dda387.js.map": "/giftondime/static/js/main.86dda387.js.map",
+    "453.0753299f.chunk.js.map": "/giftondime/static/js/453.0753299f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6ceb6bc.css",
+    "static/js/main.86dda387.js"
+  ]
+}
