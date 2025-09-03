@@ -1,0 +1,33 @@
+.slideshow {
+  max-width: 400px;
+  margin: 4px auto;
+  position: relative;
+  font-family: Arial, sans-serif;
+}
+
+.mySlides {
+  display: none;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 8px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.thumbnails {
+  display: flex;
+  justify-content: center;
+}
+
+.demo {
+  opacity: 0.6;
+  transition: opacity 0.3s;
+}
+
+.demo.active,
+.demo:hover {
+  opacity: 1;
+  border: 2px solid #007bff;
+}
